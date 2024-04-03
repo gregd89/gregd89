@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Salesforce Administrator looking to upskill my Salesforce Development skills.<br>🌱 I’m currently learning Git, GitHub, Apex<br>💬 Ask me about Salesforce<br>
+🔭 I’m currently working as a Salesforce Administrator looking to upskill my Salesforce Development skills.<br>🌱 I’m currently learning Git, GitHub, Apex<br>💬 9x Salesforce Certified<br>
 
 
 ## 🌐 Socials:
