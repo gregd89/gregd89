@@ -1,5 +1,7 @@
 # Hi, I'm Greg 👋
 
+
+
 I'm a **Senior Systems Analyst (Salesforce)** moving toward a more hands-on technical role focused on development, integrations and system design.
 
 Alongside my professional work, I’m studying contemporary software development and building practical projects to deepen my understanding of how applications work beyond configuration — particularly backend logic, architecture and data handling.
@@ -51,10 +53,9 @@ ASP.NET Core • Entity Framework Core • Razor Pages • Bootstrap • Git •
 
 ## 🏗 Example Projects
 
-| Project | Description | What I Learned |
-|------|------|------|
-| **JokesApp** | ASP.NET MVC CRUD app with authentication | MVC structure, EF Core, Identity, UI iteration |
-| *(more coming soon)* | Continuous learning projects | Applying theory to practice |
+| Project | Tech | Description | What I Practiced |
+|------|------|------|------|
+| [![Repository](https://img.shields.io/badge/View-JokesApp-black?logo=github)](https://github.com/gregd89/asp.Net---Jokes-Web-App) | ![.NET](https://img.shields.io/badge/.NET-ASP.NET_Core-blue) ![EF](https://img.shields.io/badge/EF-Core-purple) ![SQL](https://img.shields.io/badge/SQL-Database-lightgrey) | ASP.NET Core MVC CRUD app with authentication | MVC architecture, EF Core, Identity, UI iteration |
 
 ---
 
